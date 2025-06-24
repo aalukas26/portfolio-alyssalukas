@@ -54,6 +54,10 @@ body {
     box-shadow: 0 4px 8px gray;
 }
 
+:is(.summary, .github, .resume, .transcript, .project-item):hover {
+    transform: scale(1.05);
+}
+
 .projects-box {
     background-color: #94c7b4;
     border-radius: 12px;
