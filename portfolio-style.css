@@ -43,6 +43,7 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 12px;
+    box-shadow: 0 4px 8px gray;
 }
 
 .resume, .transcript {
@@ -50,6 +51,7 @@ body {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 12px;
+    box-shadow: 0 4px 8px gray;
 }
 
 .projects-box {
@@ -68,6 +70,7 @@ body {
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 12px;
+    box-shadow: 0 4px 8px gray;
 }
 
 .desc-and-img {
