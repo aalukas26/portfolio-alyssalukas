@@ -8,6 +8,7 @@ body {
 
 .header {
     display: flex;
+    font-size: 25px;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 40px;
@@ -58,12 +59,14 @@ body {
     margin-top: 40px;
 }
 
-
-
 a:link {
     color: #122b1d
 }
 
 a:visited {
     color: #d7cbb2
+}
+
+.footnote-ast {
+    font-size: 13px;
 }
