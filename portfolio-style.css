@@ -54,6 +54,10 @@ body {
     box-shadow: 0 4px 8px gray;
 }
 
+:is(.summary, .github, .resume, .transcript, .project-item) {
+    transition: transform 0.3s;
+}
+
 :is(.summary, .github, .resume, .transcript, .project-item):hover {
     transform: scale(1.05);
 }
